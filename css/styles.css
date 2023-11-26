@@ -418,7 +418,7 @@ fill: #f4f4fd;
 }
 
 
-.portfolio-text:hover {
+.our-portfolio-item:hover .portfolio-text{
 border: 1px solid #F4F4FD;
     background: #FFF;
     box-shadow:
