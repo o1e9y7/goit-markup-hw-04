@@ -246,13 +246,12 @@ img {
     background-image: linear-gradient(to bottom,
     rgba(46, 47, 66, 0.7),
     rgba(46, 47, 66, 0.7)),
-    url(../images/hero-img/people-office\ 1.jpeg);
+    url(../images/hero-img/people-office1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     max-width: 1440px;
     margin: 0 auto;
-
 }
 
 /* ====================== /HERO-SECTION ======================*/
@@ -417,6 +416,7 @@ fill: #f4f4fd;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     width: calc((100% - 48px) / 3);
 }
+
 
 .portfolio-text:hover {
     border: 1px solid #F4F4FD;
